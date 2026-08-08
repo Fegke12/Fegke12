@@ -20,8 +20,11 @@ I build native Android apps, websites, Telegram bots and Mini Apps.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **Æther** | Weather app with widgets, animated UI, air quality & UV index | Kotlin, Jetpack Compose, Glance |
-| **LightChaser** | Telegram Mini App — shoot planner for photographers (golden hour, weather, locations) | JS, Telegram Bot API |
-| **portfolio-car** | Automotive photography portfolio site | HTML, CSS, JS |
+| **LightChaser** | Telegram Mini App — shoot planner for photographers | JS, Telegram Bot API |
+| [portfolio-car](https://fegke12.github.io/portfolio-car) | Automotive photography portfolio | HTML, CSS, JS |
+| [portfolio-developer](https://fegke12.github.io/portfolio-developer) | Developer portfolio for a client | HTML, CSS, JS |
+| [landing-construction](https://github.com/Fegke12/landing-construction) | Construction company landing page | HTML, CSS, JS |
+| [swag-gov](https://fegke12.github.io/swag-gov) | Gov-style site for a SAMP project | HTML, CSS, JS |
 
 ## 📫 Contact
 
