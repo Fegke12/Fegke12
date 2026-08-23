@@ -1,4 +1,4 @@
-# Hey, I'm Vitaliy 👋
+<img width="1204" height="902" alt="image" src="https://github.com/user-attachments/assets/94e74898-2d0f-41b0-b600-a725e5198635" /># Hey, I'm Vitaliy 👋
 
 **Android & Web Developer** from Russia
 
@@ -19,7 +19,7 @@ I build native Android apps, websites, Telegram bots and Mini Apps.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Æther** | Weather app with widgets, animated UI, air quality & UV index | Kotlin, Jetpack Compose, Glance |
+| [**Æther**](https://www.rustore.ru/catalog/app/com.aether.weather) | Weather app with widgets, animated UI, air quality & UV index | Kotlin, Jetpack Compose, Glance |
 | [portfolio-car](https://fegke12.github.io/portfolio-car) | Automotive photography portfolio | HTML, CSS, JS |
 | [portfolio-developer](https://fegke12.github.io/portfolio-developer) | Developer portfolio for a client | HTML, CSS, JS |
 | [landing-construction](https://github.com/Fegke12/landing-construction) | Construction company landing page | HTML, CSS, JS |
