@@ -1,4 +1,4 @@
-<img width="1204" height="902" alt="image" src="https://github.com/user-attachments/assets/94e74898-2d0f-41b0-b600-a725e5198635" /># Hey, I'm Vitaliy 👋
+# Hey, I'm Vitaliy 👋
 
 **Android & Web Developer** from Russia
 
