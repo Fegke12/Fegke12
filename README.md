@@ -20,6 +20,7 @@ I build native Android apps, websites, Telegram bots and Mini Apps.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Æther**](https://github.com/Fegke12/aether) | Weather app with widgets, animated UI, air quality & UV index | Kotlin, Jetpack Compose, Glance |
+| [**TradeFlow**](https://github.com/Fegke12/tradeflow) | TradingView-style trading simulator for Roblox | Lua, Roblox Studio |
 | [portfolio-car](https://fegke12.github.io/portfolio-car) | Automotive photography portfolio | HTML, CSS, JS |
 | [portfolio-developer](https://fegke12.github.io/portfolio-developer) | Developer portfolio for a client | HTML, CSS, JS |
 | [landing-construction](https://github.com/Fegke12/landing-construction) | Construction company landing page | HTML, CSS, JS |
