@@ -43,10 +43,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fegke12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fegke12&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=Fegke12&theme=tokyonight&hide_border=true)
+[![Streak](https://streak-stats.demolab.com?user=Fegke12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
