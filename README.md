@@ -2,10 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=560&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9+%F0%9F%91%8B;Android+%26+Web+Developer;%D0%A1%D0%B0%D0%B9%D1%82%D1%8B+%C2%B7+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%C2%B7+%D0%B8%D0%B3%D1%80%D1%8B)
 
-**Android и веб-разработчик из Череповца 🇷🇺**
+**Android и веб-разработчик из Череповца**
 *Приложения · сайты и веб-сервисы · Telegram-боты · игры на Roblox*
 
-📱 Приложение в RuStore — [Æther](https://www.rustore.ru/catalog/app/com.aether.weather) &nbsp;·&nbsp; 📸 А ещё снимаю машины — [m8rzez](https://fegke12.github.io/portfolio-car/)
+📱 Приложение в RuStore — [Æther](https://www.rustore.ru/catalog/app/com.aether.weather) &nbsp;·&nbsp;
 
 </div>
 
